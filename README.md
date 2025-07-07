@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-80" alt="mahmoud-80" /></a> </p>
 
-- 🌱 I’m currently learning **web Development , Desktop Application**
+- 🌱 I’m currently learning **Web Development , Desktop Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoud-80?tab=projects](https://github.com/mahmoud-80?tab=projects)
 
-- 💬 Ask me about **react, .net ,laravel ,python,java desktop application**
+- 💬 Ask me about **react, .net ,laravel ,python,java , database**
 
 - 📫 How to reach me **khalifamemo8@gmail.com**
 
