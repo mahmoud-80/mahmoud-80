@@ -1,0 +1,8 @@
+.TaskList{
+    display: flex;
+    justify-content: center;
+}
+.TaskList__lists{
+    margin: 0;
+    padding: 0;
+}
